@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 85790bd2047b7422ab4dcdb9e4cccdf6
+timeCreated: 1432932443
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cam: {instanceID: 0}
+  - cube: {fileID: 199588, guid: d7657e37ae4744118bbad47de4596f5a, type: 2}
+  - crosshairTexture: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
